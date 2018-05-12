@@ -43,7 +43,6 @@ class MainStreetSpider(scrapy.Spider):
             print(thread_id)
             thread_url = 'https://bbs.hupu.com' + thread_url_part
 
-
             # 获取 帖子标题
             thread_title = soup.find_all('a', class_='truetit')[0].get_text()
             print(thread_title)
