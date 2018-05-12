@@ -15,6 +15,9 @@ from bs4 import BeautifulSoup
 
 
 class MainStreetSpider(scrapy.Spider):
+    """
+    该类主要用途是: 用于采集步行街的帖子及回复等等信息，并作为虎扑帖子采集的模版
+    """
     name = 'main'
 
     def __init__(self):
