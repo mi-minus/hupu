@@ -1,0 +1,2852 @@
+<!DOCTYPE html>
+<html class="expanded">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>
+步行街主干道 - 第10页 - 虎扑社区
+</title>
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+<link rel="apple-touch-icon" href="//b1.hoopchina.com.cn/common/apple-touch-icon.png" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hupu.com/bbs/34-10" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/bbs/34-10" />
+<link rel="alternate" href="android-app://com.hupu.games/huputiyu/bbs/board/34?r=hupucom"/>
+<script type='text/javascript'>var __daceDataNameOfForum='34';var __daceDataNameOfCategory = '174'; var __daceDataNameOfProject='bxj';var __daceDataNameOfChannel='gambia';</script>
+
+
+<meta name="keywords" content="步行街主干道" />
+<meta name="description" content="步行街主干道来自虎扑步行街社区, 逛虎扑步行街极易上瘾，请各位注意控制时间哟 ^_^ " />
+
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script> 
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    </script>
+
+
+<link rel="stylesheet" type="text/css" href="//b3.hoopchina.com.cn/web/channel/bbs/static/common/pkg/bbsCommon_3e4a924.css"/><link rel="stylesheet" type="text/css" href="//b2.hoopchina.com.cn/web/channel/bbs/static/subpages/pkg/bbsSubPages_8eb515b.css"/><link rel="stylesheet" type="text/css" href="//b3.hoopchina.com.cn/web/channel/bbs/static/common/widget/bxjTab/bxjTab_9c2d97e.css"/><link rel="stylesheet" type="text/css" href="//b1.hoopchina.com.cn/web/channel/bbs/static/subpages/widget/showdiv/showdiv_81f63a0.css"/><link rel="stylesheet" type="text/css" href="//b2.hoopchina.com.cn/web/channel/bbs/static/subpages/widget/message/message_d801d2c.css"/><link rel="stylesheet" type="text/css" href="//b2.hoopchina.com.cn/web/channel/bbs/static/subpages/widget/plateTit/plateTit_648518a.css"/></head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="javascript:void(0)" onclick="hp_quick_touch()"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-B"><div class="hp-logo"><a title="步行街" href="https://bbs.hupu.com/all-gambia"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_sports.png" alt="步行街" width="140px" height="52px"/></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://racing.hupu.com/" >赛车</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="http://photo.hupu.com/" >图片</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li class="on"><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gg" >电竞</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="https://www.kaluli.com/" target="_blank">卡路里</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >健身</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><a href="http://golf.hupu.com/" target="_blank">高尔夫</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+			<ul class="hp-subNav-item">
+                <li><a href="https://bbs.hupu.com/all-gambia">首页</a></li>
+            </ul>
+</div>
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<script>
+  googletag.cmd.push(function() {
+                googletag.defineSlot('\/1016953\/bbs_buxingjie_middle_1020x60', [1200, 60], 'bbs_buxingjie_middle_1020x60').addService(googletag.pubads());
+                      googletag.defineSlot('\/1016953\/nba_bbs_list_right_320x60', [320, 60], 'nba_bbs_list_right_320x60').addService(googletag.pubads());
+                      googletag.defineSlot('\/1016953\/gear_1x1', [1, 1], 'gear_1x1').addService(googletag.pubads());
+                      googletag.defineSlot('\/1016953\/hoopchina-bbs-right-Optimus-120x600', [120, 600], 'hoopchina-bbs-right-Optimus-120x600').addService(googletag.pubads());
+                      googletag.defineSlot('\/1016953\/nba_bbs_list_1x1', [1, 1], 'nba_bbs_list_1x1').addService(googletag.pubads());
+                      googletag.defineSlot('\/1016953\/bxj_list_1x1', [1, 1], 'bxj_list_1x1').addService(googletag.pubads());
+              googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+      });
+
+</script>
+<script type="text/javascript" src="//b3.hoopchina.com.cn/web/channel/bbs/static/common/js/jquery/jquery-1.12.0.min_71bada2.js"></script>
+<div class="hp-threeNav">
+<div class="hp-threeNav-bd">
+<ul class="hp-threeNav-item">
+<li>
+<a href="/all-gambia">步行街热帖</a>
+</li>
+<li>
+<a class="on" href="/bxj">步行街主干道</a>
+</li>
+<li>
+<a href="/ent">影视</a>
+</li>
+<li>
+<a href="/digital">数码</a>
+</li>
+<li>
+<a href="/selfie">爆照</a>
+</li>
+<li>
+<a href="/lol">英雄联盟</a>
+</li>
+<li>
+<a href="/kog">王者荣耀</a>
+</li>
+<li>
+<a href="/acg">ACG</a>
+</li>
+<li>
+<a href="/finance">股票</a>
+</li>
+<li>
+<a href="/cars">车友交流</a>
+</li>
+<li>
+<a href="/music">音乐</a>
+</li>
+<li>
+<a href="/xuefu">学府路</a>
+</li>
+<li>
+<a href="/999">万事屋</a>
+</li>
+</ul>
+</div>
+<div class="hp-search">
+<a target="_blank" id="hp-form-search"  href="">
+</a>
+<input type="text" placeholder="搜索视频、帖子" id="showfoucs1" class="it-search it-search-for">
+<input type="button" value="搜索" class="btn-searchs">
+<input type="hidden"  class="btn-search">
+<div id="hp-search-choose" class="hp-search-choose">
+<ul>
+<li id="tiezi">
+<p><span>帖子</span>搜索：<label class="searchval"></label></p>
+</li>
+<li id="videos">
+<p><span>视频</span>搜索：<label class="searchval"></label></p>
+</li>
+<li id="rizhi">
+<p><span>日志</span>搜索：<label class="searchval"></label></p>
+</li>
+<li id="cyuan">
+<p><span>成员</span>搜索：<label class="searchval"></label></p>
+</li>
+<li id="shihuo" >
+<p><span>识货</span>搜索：<label class="searchval"></label></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="" style="width:px; height:px;">
+<script>
+        googletag.cmd.push(function() { googletag.display(''); });
+  </script>
+</div>
+<div class="showdiv">
+<div class="pop">
+<div class="pop_content">
+<h2 class="mpop"><a onclick="closepop()"></a>
+推荐版块</h2>
+<ul class="pop_commend">
+<form name="rm_form">
+<li>推荐语：</li>
+<li><textarea name="tjmsg" id="tjmsg" class="j_enter j_enter_this"></textarea></li>
+<li>
+<input name="cid" id="cid" type="hidden" value="34">
+<input name="fid" type="hidden" value="34">
+<input name="Input2" type="button" class="btns2 j_tjmsg" id="j_recs" value="推 荐">&nbsp; &nbsp;<input name="Input2" type="button" class="btnb2" value="取 消" onclick="closepop()">
+</li>
+</form>
+</ul>
+</div>
+</div>
+</div>
+<div id="j_tip" class="tips_up_pop">
+<div id="j_tip_t">
+<div class="tips_pop"></div>
+</div>
+</div>
+<div class="bbs-content">
+<div id="container">
+<div class="container_padd">
+<div class="bbsPlate">
+<div class="showPlate">
+<div id="J-t-plate">
+<script id="J-plate-tpl" type="text/template">
+      <@if(datas.length>0){@>
+      <p class="forMyplate">
+        <span class="forhot">我关注的版块</span>
+       <a class="guanli" href="//bbs.hupu.com/myboardadmin.php?url=https://bbs.hupu.com/" onclick="window.open('/myboardadmin.php?url=https://bbs.hupu.com/','o','width=300,height=700,left=200,top=100,scrollbars=1,resizable=1');return false;">管理</a>
+      </p>
+     <ul class="bbs-showMyPlate">
+            <li>
+              <a href="/i"><span class="showname">我关注的版块帖子</span></a>
+            </li>
+            <@ $(datas).each(function(index,item){ @>
+              <li>
+                <a href="<@=item.url@>"  title="<@=item.bname@>">
+                  <span class="showname"><@=item.bname@></span>
+                  <@if(item.tpost>0){@>
+                  <span class="num"><@=item.tpost@></span>
+                  <@ } @>
+                </a>
+              </li>
+            <@ }); @>
+
+    </ul>
+      <@ } @>
+  </script>
+</div>
+<p class="forMyplate" style="margin-top:8px;">
+<span class="forhot" >版块分类</span>
+</p>
+<ul class="bbs_banner">
+<li  data-num="0">
+<a href="/all-nba"  class="data-1" data-fid="1">NBA论坛</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="1">
+<a href="/all-cba"  class="data-232" data-fid="232">CBA论坛</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="2">
+<a href="/all-soccer"  class="data-198" data-fid="198">国际足球论坛</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="3">
+<a href="/all-csl"  class="data-4596" data-fid="4596">中国足球论坛</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="4">
+<a href="/all-gg"  class="data-234" data-fid="234">游戏电竞</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="5">
+<a href="/all-gambia"  class="data-174" data-fid="174">步行街</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="6">
+<a href="/all-boards"  class="data-238" data-fid="238">自建版块</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="7">
+<a href="/all-gear"  class="data-233" data-fid="233">运动&amp;装备</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="8">
+<a href="/all-sports"  class="data-41" data-fid="41">综合体育</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="9">
+<a href="/all-lottery"  class="data-42" data-fid="42">彩票中心</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="10">
+<a href="/all-group"  class="data-114" data-fid="114">虎扑社团</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+<li  data-num="11">
+<a href="/all-feedback"  class="data-7" data-fid="7">站务管理</a>
+<div class="bbs_banner_over">
+<div class="bbs_banner_bg">
+<dl class="showdata">
+</dl>
+</div>
+</div>
+</li>
+</ul>
+<p class="morebbs">
+<a href="//bbs.hupu.com/boards.php" >更多版块»</a>
+</p>
+
+</div>
+<div class="leftad" id="hoopchina-bbs-right-Optimus-120x600" style="width:120px; height:600px; ">
+<script>
+                     googletag.cmd.push(function() { googletag.display('hoopchina-bbs-right-Optimus-120x600'); });
+               </script>
+</div>
+</div>
+<div class="bbsHotPit" style="width:1020px;">
+<a id="isadmin" style="display:none">0</a>
+<div class="bbs_head" >
+<div class="breadCrumbs">
+<a href="/">社区</a>&nbsp;»&nbsp;<a href="/all-gambia">步行街</a>
+</div>
+<div class="titpres"  id="nba_bbs_list_right_320x60" style="width:320px; ">
+<script>
+         googletag.cmd.push(function() { googletag.display('nba_bbs_list_right_320x60'); });
+   </script>
+</div>
+<div class="right">
+<input type="text" placeholder="搜索本版帖子"class="it-search lit-search-tit">
+<input type="button" class="btn-search lit-search-btn">
+</div>
+<h1 class="left">
+<span class="infoname" id="forumname" fid="34" fidurl="bxj">步行街主干道</span>
+</h1>
+<div class="pl_nav">
+
+<span class="pl_d">&nbsp;</span>
+<div class="pl_top">
+版块介绍：<span id="des_forum">逛虎扑步行街极易上瘾，请各位注意控制时间哟 ^_^ </span>
+<br>
+版主：<a class="u" target="_blank" href="https://my.hupu.com/7656961171090">雷霆夜未眠</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/220480110734796">小草哇</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/211492451111796">布丁先生</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/68175232604480">我是鱼总</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/124919579504755">助板高手</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/119335221981531">左岸花不开</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/126908859515661">逝去的贝影</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/43270446252357">考研路漫漫</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/85393557416635">白雪巫婆的苹果</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/243051315856332">乔尔一</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/265762914296625">核武一族萨邦日</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/132340356050203">W_0</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/140822983361022">BIKES</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/208343064490034">接球起跳飘逸后仰</a>
+<span class="f666"></span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/232184364249130">Superflory</a><span>(实习)</span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/58142845774283">Khalil2</a><span>(实习)</span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/162383907765491">少年何弃疗</a><span>(实习)</span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/107981913163373">捞奇仔LOKI</a><span>(实习)</span>
+&nbsp;&nbsp;<a class="u" target="_blank" href="https://my.hupu.com/177840744720660">咀嚼的钙片</a><span>(实习)</span>
+&nbsp;&nbsp;</div>
+<div id="navigation" style="">
+<span id="nav_change">
+<ul>
+<li><a href="https://bbs.hupu.com/15806550.html" target="_blank">步行街版规（三级以上可以发帖）</a></li>
+<li><a href="https://bbs.hupu.com/18543984.html" target="_blank">虎扑社区严打无关主题的福利以及灌水回复</a></li>
+<li><a href="https://bbs.hupu.com/427132.html" target="_blank">JRs，你们最艰苦的战役是什么？</a></li>
+<li><a href="https://bbs.hupu.com/19550221.html" target="_blank">请勿发布他人个人信息、隐私，禁止短信息轰炸、人肉等行为</a></li>
+</ul>
+</span>
+</div>
+<div id="childBoards" class="m5">
+<span class="f444">兄弟版块：</span>
+<a class="blue" target="_blank" href="/ent">影视区</a><span class="f666" title="今日6409贴">(6409)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/digital">数码区</a><span class="f666" title="今日3621贴">(3621)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/selfie">爆照区</a><span class="f666" title="今日4074贴">(4074)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/lol">英雄联盟</a><span class="f666" title="今日6613贴">(6613)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/kog">王者荣耀</a><span class="f666" title="今日4611贴">(4611)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/acg">ACG区</a><span class="f666" title="今日1418贴">(1418)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/finance">股票区</a><span class="f666" title="今日162贴">(162)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/cars">车友交流</a><span class="f666" title="今日3536贴">(3536)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/music">音乐区</a><span class="f666" title="今日1096贴">(1096)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/xuefu">学府路</a><span class="f666" title="今日287贴">(287)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/999">万事屋</a><span class="f666" title="今日222贴">(222)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/pubg">绝地求生</a><span class="f666" title="今日6595贴">(6595)</span>&nbsp;&nbsp;&nbsp;&nbsp;<a class="blue" target="_blank" href="/4836">家装房产</a><span class="f666" title="今日1443贴">(1443)</span>&nbsp;&nbsp;&nbsp;&nbsp;<br />
+</div>
+<iframe frameborder="0" class="showshihuo" width="100%" height="29" scrolling="no" src="//api.hupu.com/trade/index" style="margin-top:10px;"></iframe>
+</div>
+</div>
+<div   id="bbs_buxingjie_middle_1020x60" style="width:1020px;  margin-bottom:10px; overflow: hidden;">
+<script>
+                     googletag.cmd.push(function() { googletag.display('bbs_buxingjie_middle_1020x60'); });
+               </script>
+</div>
+<div class="tabs_header zoom" id="tabs_header">
+<ul class="left">
+<li class="selected"><a href="/bxj">主题</a></li>
+<li  ><a href="/bxj-digest">精华</a></li>
+<li><a href="/bxj/highlights" >亮了</a></li>
+<li><a href="/bxj/members">成员</a></li>
+<li><a href="/bxj/ranking"><span>赞赏排行</span></a></li>
+</ul>
+<div class="right">
+<a id="g_n" class="issue_button"   rel="nofollow me noopener noreferrer" href="/post.php?fid=34">发新帖</a>
+</div>
+<div class="clearfix tabs_border"></div>
+</div>
+<div id="sort">
+<div class="fr">
+<form style="display:inline">
+<input type="hidden" value="10" data-name="bxj" class="orderpagenum"  />
+<select id="orderway-new" style="vertical-align:middle; _vertical-align:top;">
+<option value="null" selected="">排序方式</option>
+<option value="lastpost">按回帖时间排序</option>
+<option value="postdate">按发帖时间排序</option>
+</select>
+</form>
+</div>
+<div class="clearfix" style="*height:0;"></div>
+</div>
+<i id="level2header" title="首页"></i>
+<form  id="ajaxtable">
+<input type="hidden" value="34"  name="fid">
+<div class="show-list">
+<p class="show-tit">
+<span class="t1">主题</span>
+<span class="t2">作者</span>
+<span class="t3">回复/浏览</span>
+<span class="t4">最后回复</span>
+</p>
+<ul class="for-list">
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234058.html" class="truetit" target="_blank">我终于从凉山回来了，解脱了</a>
+<span class="light_r  ">
+<a title="有25个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22234058-2.html" target="_blank">2</a>
+<a href="/22234058-3.html" target="_blank">3</a>...<a href="/22234058-17.html" target="_blank">17</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/190896824732985" >老子老二老大了丶</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">331&nbsp;/&nbsp;145183</span>
+<div class="endreply box">
+<a href="22234058-17.html#o" >15:22</a>
+<br />
+<span class="endauthor ">马玲薯</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234056.html" class="truetit" target="_blank">这是只什么猫？</a>
+<span class="light_r  ">
+<a title="有9个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22234056-2.html" target="_blank">2</a>
+<a href="/22234056-3.html" target="_blank">3</a>...<a href="/22234056-6.html" target="_blank">6</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/71676831742421" >睥睨万生李狗蛋</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">107&nbsp;/&nbsp;37769</span>
+<div class="endreply box">
+<a href="22234056-6.html#o" >12:38</a>
+<br />
+<span class="endauthor ">负是非</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234055.html" class="truetit" target="_blank">这三句话怎样翻译更有感觉？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/243420518176139" >专业老中医三十年</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;458</span>
+<div class="endreply box">
+<a href="22234055.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">後入段小猴</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234050.html" class="truetit" target="_blank">ZT生还是不生？——来自12万人的生育调查</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">5&nbsp;/&nbsp;548</span>
+<div class="endreply box">
+<a href="22234050.html#o" target="_blank">09:52</a>
+<br />
+<span class="endauthor ">宛平南路600号院长</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234044.html" class="truetit" target="_blank">继蔡徐坤鹿晗吴亦凡，黄子韬这球技咋样~？</a>
+<span class="light_r  ">
+<a title="有3个亮了的回帖">&nbsp;</a>
+</span>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/279800118594684" >茶几兄</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">20&nbsp;/&nbsp;4383</span>
+<div class="endreply box">
+<a href="22234044.html#o" target="_blank">15:21</a>
+<br />
+<span class="endauthor ">乳此多交00</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234043.html" class="truetit" target="_blank">家人们！这在哪可以吃到？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/106985373736975" >Tracy丶Mcc</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">3&nbsp;/&nbsp;468</span>
+<div class="endreply box">
+<a href="22234043.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">Tracy丶Mcc</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234042.html" class="truetit" target="_blank">被霸哥圈粉，来讨论讨论反派的实力吧，灭霸和多玛姆谁更厉害呢？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/57555552557353" >3823312</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;1328</span>
+<div class="endreply box">
+<a href="22234042.html#o" target="_blank">00:00</a>
+<br />
+<span class="endauthor ">保罗躺进西决</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234037.html" class="truetit" target="_blank">这位小师太口语什么水平 &nbsp;  ZT女僧人的超强英语口译惊艳网友！</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/219340922945094" >亮仔流比溪</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;333</span>
+<div class="endreply box">
+<a href="22234037.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">Kyrie_K</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234035.html" class="truetit" target="_blank">异地5年，准备离婚了。</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/183785530025273" >男人想通女人想开</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">10&nbsp;/&nbsp;2301</span>
+<div class="endreply box">
+<a href="22234035.html#o" target="_blank">01:42</a>
+<br />
+<span class="endauthor ">醋溜小王</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234033.html" class="truetit" target="_blank">其实我挺赞同灭霸的观点的</a>
+<span class="light_r  ">
+<a title="有7个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22234033-2.html" target="_blank">2</a>
+<a href="/22234033-3.html" target="_blank">3</a>...<a href="/22234033-6.html" target="_blank">6</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/78457453926594" >funnycunt</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">106&nbsp;/&nbsp;25983</span>
+<div class="endreply box">
+<a href="22234033-6.html#o" >13:23</a>
+<br />
+<span class="endauthor ">谦虚盯梢</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234031.html" class="truetit" target="_blank">追星而论，大家喜欢看偶像的电影还是电视剧？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/233237015305624" >高速迷</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">0&nbsp;/&nbsp;34</span>
+<div class="endreply box">
+<a href="22234031.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">高速迷</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234030.html" class="truetit" target="_blank">今天晚自习看了部电影，电影名  《叫我第一名》，真的很励志。</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/131005872597293" >找点刺激</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;328</span>
+<div class="endreply box">
+<a href="22234030.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">wuchenru</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234029.html" class="truetit" target="_blank">jj林俊杰重新编曲的江南，不一样的味道</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/257435086228816" >约翰强沃尔</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;903</span>
+<div class="endreply box">
+<a href="22234029.html#o" target="_blank">00:05</a>
+<br />
+<span class="endauthor ">小小博里尼</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234027.html" class="truetit" target="_blank">来预测一下复联4会有多火</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/68529005374240" >球到框时自然进</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">20&nbsp;/&nbsp;2966</span>
+<div class="endreply box">
+<a href="22234027.html#o" target="_blank">05:10</a>
+<br />
+<span class="endauthor ">虎扑第一球王</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234021.html" class="truetit" target="_blank">有没有人害怕别人咳嗽声音？我是不是心理有问题</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/275598240347012" >斗鹰</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;491</span>
+<div class="endreply box">
+<a href="22234021.html#o" target="_blank">09:04</a>
+<br />
+<span class="endauthor ">28号主公为您服务</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234020.html" class="truetit" target="_blank">你以为tf只有王千源？来看看tf家族的力量？就问你怕不怕</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/139929209649959" >藏镜人手刃翻云魔君</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;1323</span>
+<div class="endreply box">
+<a href="22234020.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">白斩鸡真好吃</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234019.html" class="truetit" target="_blank">崔永元又发微博啦，这次是骂冯小刚和刘震云</a>
+<span class="light_r  ">
+<a title="有7个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22234019-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/11775312564311" >不愿透露姓名的煤老板</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">28&nbsp;/&nbsp;10556</span>
+<div class="endreply box">
+<a href="22234019-2.html#o" >09:23</a>
+<br />
+<span class="endauthor ">天体化学</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234015.html" class="truetit" target="_blank">夫妻之爱VS亲子之爱，哪种爱排位更高？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/277514741574764" >罗纳尔多少</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">15&nbsp;/&nbsp;605</span>
+<div class="endreply box">
+<a href="22234015.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">风月无情丶</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234011.html" class="truetit" target="_blank">大家觉得是发胖了身体出问题还是消瘦了身体出问题了？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/280935249500515" >鞋子成</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;729</span>
+<div class="endreply box">
+<a href="22234011.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">li_harry</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234009.html" class="truetit" target="_blank">后天就是母亲节了，大家有对自己母亲想说的吗</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/235061366837883" >勒布朗詹姆斯哭着说</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;141</span>
+<div class="endreply box">
+<a href="22234009.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">pengjin7545</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22234007.html" class="truetit" target="_blank">在广州税前15K大概在啥水平？中等有吗？</a>
+<span class="light_r  ">
+<a title="有2个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22234007-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/255644641752895" >昵称涉黄不宜显示</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">37&nbsp;/&nbsp;5544</span>
+<div class="endreply box">
+<a href="22234007-2.html#o" >15:31</a>
+<br />
+<span class="endauthor ">sc1314159</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233998.html" class="truetit" target="_blank">曝光！恶意退款职业坑鞋黑幕，做某宝易猝死,正义战胜不了邪恶 zt</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233998-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/294911793208" >我爱日羊</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">24&nbsp;/&nbsp;3104</span>
+<div class="endreply box">
+<a href="22233998-2.html#o" >02:15</a>
+<br />
+<span class="endauthor ">吉林李宗瑞</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233997.html" class="truetit" target="_blank">机器人大潮冲剂下，国家该何去何从？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/50299991869252" >海底两万米</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">4&nbsp;/&nbsp;390</span>
+<div class="endreply box">
+<a href="22233997.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">kaka~cjf</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/lurenwang">路人王专区</a>]<a  href="/22233996.html" class="truetit" target="_blank">约旦混血遗憾出局，Jrs想在决赛看见谁？伊旭or骷髅哥or吕昕原？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253990513552864" >wade好坏</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;1188</span>
+<div class="endreply box">
+<a href="22233996.html#o" target="_blank">08:47</a>
+<br />
+<span class="endauthor ">肖信彬只会投篮</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233983.html" class="truetit" target="_blank">农村的人进来看看，你们是怎么买卖你们的农场品的？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/139148290662247" >Zhroul执着</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;114</span>
+<div class="endreply box">
+<a href="22233983.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">965627293</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233981.html" class="truetit" target="_blank">看了复联3，聊一下感想。(有剧透)</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/106311160919988" >lifesimple</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;1428</span>
+<div class="endreply box">
+<a href="22233981.html#o" target="_blank">14:07</a>
+<br />
+<span class="endauthor ">ViGaMin</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233978.html" class="truetit" target="_blank">谁知道抖音怎么看一个视频的所有评论啊？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/184908381530557" >拯救失足妇女</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;399</span>
+<div class="endreply box">
+<a href="22233978.html#o" target="_blank">00:05</a>
+<br />
+<span class="endauthor ">D飞机</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233975.html" class="truetit" target="_blank">突然发现个问题，为什么我们会喜欢自己的脚臭味？</a>
+<span class="light_r  ">
+<a title="有2个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233975-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/188152484757648" >3second</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">31&nbsp;/&nbsp;4060</span>
+<div class="endreply box">
+<a href="22233975-2.html#o" >12:14</a>
+<br />
+<span class="endauthor ">年轻时人称刀手</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233974.html" class="truetit" target="_blank">ZT作为创业者，我是跪着看完了碧桂园的会议记录</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;2756</span>
+<div class="endreply box">
+<a href="22233974.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">马刺进行时</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233962.html" class="truetit" target="_blank">zt.小孩去美国读高中原来是这样，跟我想象的根本就不一样，Jrs们怎么看小留学生们的...</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/54492577331213" >黑露露</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;1203</span>
+<div class="endreply box">
+<a href="22233962.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">月的守护MOND</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233959.html" class="truetit" target="_blank">继上次后续，看聊天记录是婉拒还是凉了？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/136298271199238" >施季里茨</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;1048</span>
+<div class="endreply box">
+<a href="22233959.html#o" target="_blank">11:58</a>
+<br />
+<span class="endauthor ">施季里茨</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233958.html" class="truetit" target="_blank">不懂就问，顺便说说女朋友坐滴滴的真事。</a>
+<span class="light_r  ">
+<a title="有4个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233958-2.html" target="_blank">2</a>
+<a href="/22233958-3.html" target="_blank">3</a>...<a href="/22233958-6.html" target="_blank">6</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/199776440270675" >py保时捷与未来</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">101&nbsp;/&nbsp;60752</span>
+<div class="endreply box">
+<a href="22233958-6.html#o" >12:52</a>
+<br />
+<span class="endauthor ">Landon陪熊去看</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233956.html" class="truetit" target="_blank">有牙医嘛，或者正畸经验的JR吗？26岁还适合牙齿矫正吗？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/141069704341714" >斯拉克斯拉达</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;520</span>
+<div class="endreply box">
+<a href="22233956.html#o" target="_blank">13:02</a>
+<br />
+<span class="endauthor ">斯拉克斯拉达</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233947.html" class="truetit" target="_blank">有点难受</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/226821934863066" >花嫁傢</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;239</span>
+<div class="endreply box">
+<a href="22233947.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">花嫁傢</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233942.html" class="truetit" target="_blank">犹太人亡国几千年，为什么能够复国呢？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/109894177209226" >毛罗纳尔多</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">11&nbsp;/&nbsp;1155</span>
+<div class="endreply box">
+<a href="22233942.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">xyxf鸟</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<span>[锁定]</span>
+<a  href="/22233941.html" class="truetit" target="_blank">香港人的普通话水平，是不是很有待提高？</a>
+<span class="light_r  ">
+<a title="有8个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233941-2.html" target="_blank">2</a>
+<a href="/22233941-3.html" target="_blank">3</a>...<a href="/22233941-8.html" target="_blank">8</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/191522326291549" >NYPD局长</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">148&nbsp;/&nbsp;21954</span>
+<div class="endreply box">
+<a href="22233941-8.html#o" >09:01</a>
+<br />
+<span class="endauthor ">天，亮了</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233938.html" class="truetit" target="_blank">求图片：一个小孩子在篮球场上，拿着一个篮球 看着篮球框，时间大约是早晨。</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/112547309387948" >内裤控.</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">6&nbsp;/&nbsp;1076</span>
+<div class="endreply box">
+<a href="22233938.html#o" target="_blank">02:24</a>
+<br />
+<span class="endauthor ">德玛西亚皇子嘉文四世</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233926.html" class="truetit" target="_blank">滴滴顺风车从明天（5月12日）开始下线整顿一周，什么水平？</a>
+[&nbsp;<span class="multipage">
+<a href="/22233926-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/76812798080488" >世博广场东8964</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">28&nbsp;/&nbsp;3798</span>
+<div class="endreply box">
+<a href="22233926-2.html#o" >00:35</a>
+<br />
+<span class="endauthor ">吻黑木耳</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233922.html" class="truetit" target="_blank">各位女jr要注意安全啊！刚刚微博看见的，我一个男的都觉得可怕</a>
+<span class="light_r  ">
+<a title="有7个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233922-2.html" target="_blank" >2</a>
+<a href="/22233922-3.html" target="_blank">3</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/53125283738153" >开着天启上高速</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">51&nbsp;/&nbsp;28808</span>
+<div class="endreply box">
+<a href="22233922-3.html#o" >10:41</a>
+<br />
+<span class="endauthor ">不知道如何设置昵称</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233921.html" class="truetit" target="_blank">ZT#空姐遇害最新进展#</a>
+<span class="light_r  ">
+<a title="有6个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233921-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/24521854366149" >怀特黑德最佳新秀</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">30&nbsp;/&nbsp;11385</span>
+<div class="endreply box">
+<a href="22233921-2.html#o" >10:16</a>
+<br />
+<span class="endauthor ">Mr.Shark</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233912.html" class="truetit" target="_blank">ZT日本无缘社会对于中国有什么启示？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;1213</span>
+<div class="endreply box">
+<a href="22233912.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">续命狂魔</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233901.html" class="truetit" target="_blank">空姐遇害案似乎快解决了</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253785478925498" >KPL撩妹冠军</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">5&nbsp;/&nbsp;2088</span>
+<div class="endreply box">
+<a href="22233901.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">willzhuang</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233892.html" class="truetit" target="_blank">假设房产大跌（跌五成），银行就要不赚钱了。</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/78500101771415" >Popzgj</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">15&nbsp;/&nbsp;1473</span>
+<div class="endreply box">
+<a href="22233892.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">未被驯服的崽子</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233891.html" class="truetit" target="_blank">奇异博士终于作了一个艰难的决定</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/90327763416552" >无形的误解</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">11&nbsp;/&nbsp;2048</span>
+<div class="endreply box">
+<a href="22233891.html#o" target="_blank">00:16</a>
+<br />
+<span class="endauthor ">呼啸的二十一号东风</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233889.html" class="truetit" target="_blank">外交部很忙：伊朗要来访，呆湾邀教皇，王毅访欧参会忙</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/219364602304593" >fw190a6</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">3&nbsp;/&nbsp;1016</span>
+<div class="endreply box">
+<a href="22233889.html#o" target="_blank">08:14</a>
+<br />
+<span class="endauthor ">FW190D7</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233888.html" class="truetit" target="_blank">奶奶去世我第十年，想她</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/581330961213" >我和库里一直在一起</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">15&nbsp;/&nbsp;599</span>
+<div class="endreply box">
+<a href="22233888.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">我和库里一直在一起</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<span>[锁定]</span>
+<a  href="/22233884.html" class="truetit" target="_blank">不懂就问，为什么足球是第一运动？</a>
+<span class="light_r  ">
+<a title="有24个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233884-2.html" target="_blank">2</a>
+<a href="/22233884-3.html" target="_blank">3</a>...<a href="/22233884-16.html" target="_blank">16</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/79054005232195" >亲爱的麦蒂</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">308&nbsp;/&nbsp;60357</span>
+<div class="endreply box">
+<a href="22233884-16.html#o" >08:49</a>
+<br />
+<span class="endauthor ">总是被狗追</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233876.html" class="truetit" target="_blank">ZT中国小伙在印度掉钱包测试印度人素质，结果发人深省！</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;3454</span>
+<div class="endreply box">
+<a href="22233876.html#o" target="_blank">03:11</a>
+<br />
+<span class="endauthor ">ycyx2005</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233875.html" class="truetit" target="_blank">唉，我叔拖累全家人，我该怎么办好？</a>
+<span class="light_r  ">
+<a title="有6个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233875-2.html" target="_blank">2</a>
+<a href="/22233875-3.html" target="_blank">3</a>...<a href="/22233875-7.html" target="_blank">7</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/154129702453450" >联盟第一丑莺</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">129&nbsp;/&nbsp;44456</span>
+<div class="endreply box">
+<a href="22233875-7.html#o" >14:05</a>
+<br />
+<span class="endauthor ">一个三分</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233865.html" class="truetit" target="_blank">漫威大佬们，这几个logo代表谁？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/1296542412864" >倒下的博阿滕</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;2948</span>
+<div class="endreply box">
+<a href="22233865.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">篮球比筐大</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233864.html" class="truetit" target="_blank">明天，汶川地震就过去十周年了</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/226805432546184" >丹麦的钟声</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;376</span>
+<div class="endreply box">
+<a href="22233864.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">丶CosMos</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233863.html" class="truetit" target="_blank">生在河南是原罪吗？ 观隔壁关于河南考生人数问题，实在气愤不过，有感而发！</a>
+<span class="light_r  ">
+<a title="有10个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233863-2.html" target="_blank">2</a>
+<a href="/22233863-3.html" target="_blank">3</a>...<a href="/22233863-15.html" target="_blank">15</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/274985333764234" >弹跳刚好28</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">293&nbsp;/&nbsp;50174</span>
+<div class="endreply box">
+<a href="22233863-15.html#o" >14:56</a>
+<br />
+<span class="endauthor ">李团长的迫击炮</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233855.html" class="truetit" target="_blank">遇见这样的领导我该怎么办？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/175214447350081" >可耐的小处男</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;333</span>
+<div class="endreply box">
+<a href="22233855.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">可耐的小处男</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233846.html" class="truetit" target="_blank">花了三个月，每天像虐待自己一样，成功你减肥计划</a>
+[&nbsp;<span class="multipage">
+<a href="/22233846-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/98220403636976" >超级无敌霹雳伪少女</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">35&nbsp;/&nbsp;4131</span>
+<div class="endreply box">
+<a href="22233846-2.html#o" >08:39</a>
+<br />
+<span class="endauthor ">超级无敌霹雳伪少女</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233843.html" class="truetit" target="_blank">明朝末年，内忧外患，把崇祯换成谁能绝地反击</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233843-2.html" target="_blank" >2</a>
+<a href="/22233843-3.html" target="_blank">3</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/272612867878761" >骑扣恩比德大帝</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">45&nbsp;/&nbsp;3888</span>
+<div class="endreply box">
+<a href="22233843-3.html#o" >10:23</a>
+<br />
+<span class="endauthor ">一个最佳新人</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233836.html" class="truetit" target="_blank">那些被文学或者时间掩盖的历史真相，你知道那些（持续更新中）</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/171095945849857" >池州火箭队</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;626</span>
+<div class="endreply box">
+<a href="22233836.html#o" target="_blank">15:26</a>
+<br />
+<span class="endauthor ">轩辕伯禽</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233835.html" class="truetit" target="_blank">二战末期，如果没有原子弹的情况下，美军想要登录日本本土，需要付出多大的代价？</a>
+<span class="light_r  ">
+<a title="有13个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233835-2.html" target="_blank">2</a>
+<a href="/22233835-3.html" target="_blank">3</a>...<a href="/22233835-11.html" target="_blank">11</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/184871774042535" >盖伦没有R</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">216&nbsp;/&nbsp;60824</span>
+<div class="endreply box">
+<a href="22233835-11.html#o" >14:57</a>
+<br />
+<span class="endauthor ">豆浆饭</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233834.html" class="truetit" target="_blank">问一下大家在洗澡或者蹲厕所时，会唱歌吗？唱的又是什么呢？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/234923540949418" >山建吴彦祖</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;306</span>
+<div class="endreply box">
+<a href="22233834.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">山建吴彦祖</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233823.html" class="truetit" target="_blank">ZT中美20个产业强弱对比：差距要比想象大得多</a>
+<span class="light_r  ">
+<a title="有13个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233823-2.html" target="_blank">2</a>
+<a href="/22233823-3.html" target="_blank">3</a>...<a href="/22233823-9.html" target="_blank">9</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">160&nbsp;/&nbsp;40911</span>
+<div class="endreply box">
+<a href="22233823-9.html#o" >14:22</a>
+<br />
+<span class="endauthor ">SHERRYFC</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233819.html" class="truetit" target="_blank">如果灭霸是乔丹的话 妇联的众人算？</a>
+<span class="light_r  ">
+<a title="有3个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233819-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/12073699459506" >就是身材好</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">22&nbsp;/&nbsp;3812</span>
+<div class="endreply box">
+<a href="22233819-2.html#o" >05-11</a>
+<br />
+<span class="endauthor ">虎已扑街</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233815.html" class="truetit" target="_blank">优衣库真是一朝被蛇咬十年怕井绳啊。</a>
+<span class="light_r  ">
+<a title="有5个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233815-2.html" target="_blank" >2</a>
+<a href="/22233815-3.html" target="_blank">3</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/193321748257016" >韭菜盒子没韭菜</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">50&nbsp;/&nbsp;33519</span>
+<div class="endreply box">
+<a href="22233815-3.html#o" >14:53</a>
+<br />
+<span class="endauthor ">Foreverair</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233814.html" class="truetit" target="_blank">没买到票，讨论下复联三（剧透勿进）</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/27901619076469" >有基友拉我裤链</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">19&nbsp;/&nbsp;839</span>
+<div class="endreply box">
+<a href="22233814.html#o" target="_blank">00:37</a>
+<br />
+<span class="endauthor ">辛里奇抱着小土豆笑了</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233806.html" class="truetit" target="_blank">灌篮高手里面，你觉得哪个像你？</a>
+<span class="light_r  ">
+<a title="有9个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233806-2.html" target="_blank">2</a>
+<a href="/22233806-3.html" target="_blank">3</a>...<a href="/22233806-10.html" target="_blank">10</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/30779971335509" >lalala5</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">196&nbsp;/&nbsp;36026</span>
+<div class="endreply box">
+<a href="22233806-10.html#o" >15:29</a>
+<br />
+<span class="endauthor ">少林捅子宫</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233803.html" class="truetit" target="_blank">又一个日本巨头要凉了？又一巨头被逼上绝路？卡西欧宣布全面永久退出卡片机市场 zt</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/12344029515101" >黄晓明真的一米八</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;2965</span>
+<div class="endreply box">
+<a href="22233803.html#o" target="_blank">01:00</a>
+<br />
+<span class="endauthor ">cain948</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/lurenwang">路人王专区</a>]<a  href="/22233797.html" class="truetit" target="_blank">拜佛、crossover、反篮！骷髅哥一顿疯狂操作终结对手，不愧是小快灵代表之一了！</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253990513552864" >wade好坏</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">3&nbsp;/&nbsp;2421</span>
+<div class="endreply box">
+<a href="22233797.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">玩鸟大师</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233794.html" class="truetit" target="_blank">离婚了欠前妻80万，各位JRs有没有利率低的小贷公司可以推荐？</a>
+<span class="light_r  ">
+<a title="有3个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233794-2.html" target="_blank">2</a>
+<a href="/22233794-3.html" target="_blank">3</a>
+<a href="/22233794-4.html" target="_blank">4</a>
+<a href="/22233794-5.html" target="_blank">5</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/89391011569762" >独狼卡斯比</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">81&nbsp;/&nbsp;22591</span>
+<div class="endreply box">
+<a href="22233794-5.html#o" >15:05</a>
+<br />
+<span class="endauthor ">老到小白</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233788.html" class="truetit" target="_blank">虽然猫奴狗奴让人讨厌，不过这种虐待猫狗的人真的不正常</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/162348265171038" >菜鸟别下马</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;353</span>
+<div class="endreply box">
+<a href="22233788.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">心之所向桀</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233787.html" class="truetit" target="_blank">虎牙今晚登陆纽交所成为中国游戏第一股主播们涨工资美滋滋 开启直播平台上市潮？</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233787-2.html" target="_blank" >2</a>
+<a href="/22233787-3.html" target="_blank">3</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/52204273813403" >小口袋大梦想</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">51&nbsp;/&nbsp;11122</span>
+<div class="endreply box">
+<a href="22233787-3.html#o" >11:41</a>
+<br />
+<span class="endauthor ">裸泳好</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233783.html" class="truetit" target="_blank">不知道对不对</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/77533588327150" >骑驴赶马咯</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">3&nbsp;/&nbsp;130</span>
+<div class="endreply box">
+<a href="22233783.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">骑驴赶马咯</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233776.html" class="truetit" target="_blank">ZT紧急刹车！这些城市的地铁“要泡汤”！</a>
+[&nbsp;<span class="multipage">
+<a href="/22233776-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">38&nbsp;/&nbsp;10295</span>
+<div class="endreply box">
+<a href="22233776-2.html#o" >00:21</a>
+<br />
+<span class="endauthor ">leoooyoung</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233769.html" class="truetit" target="_blank">活久见：裁判玩假摔，球员挡不住 zt</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/152957936027588" >我有点晕奶</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">4&nbsp;/&nbsp;529</span>
+<div class="endreply box">
+<a href="22233769.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">玉米烙</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233766.html" class="truetit" target="_blank">这波怎么回复？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/74383066316017" >ID真TM难取</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;395</span>
+<div class="endreply box">
+<a href="22233766.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">KC25</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233762.html" class="truetit" target="_blank">我室友买的这件衣服什么水平</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/242429808207358" >茜茜灬607</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">10&nbsp;/&nbsp;3975</span>
+<div class="endreply box">
+<a href="22233762.html#o" target="_blank">10:36</a>
+<br />
+<span class="endauthor ">茜茜灬607</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233760.html" class="truetit" target="_blank">看了大家八的滴滴司机端评价界面，想起来以前办公室美女约车的经历</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/97467857167101" >rmbzhc</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;1641</span>
+<div class="endreply box">
+<a href="22233760.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">四哥不是高富帅i</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233757.html" class="truetit" target="_blank">打球被喷了垃圾话，没回的话就是怂吧</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233757-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/195909589429120" >腮帮玫瑰175</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">28&nbsp;/&nbsp;3249</span>
+<div class="endreply box">
+<a href="22233757-2.html#o" >00:17</a>
+<br />
+<span class="endauthor ">kobe5233</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233746.html" class="truetit" target="_blank">自带BGM的女版乔帮主</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/82915208012165" >牛蜜已硬文2</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;947</span>
+<div class="endreply box">
+<a href="22233746.html#o" target="_blank">10:42</a>
+<br />
+<span class="endauthor ">Etlt</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233743.html" class="truetit" target="_blank">作为大反派，灭霸和六道佩恩你更认同谁？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/202648783483927" >灯灯HO</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;1450</span>
+<div class="endreply box">
+<a href="22233743.html#o" target="_blank">00:56</a>
+<br />
+<span class="endauthor ">我已经偷完主宰</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233741.html" class="truetit" target="_blank">ZT安徽经济第一大市，在衰败以后要怎么完成自救？地球知识局</a>
+<span class="light_r  ">
+<a title="有2个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233741-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">37&nbsp;/&nbsp;5963</span>
+<div class="endreply box">
+<a href="22233741-2.html#o" >14:36</a>
+<br />
+<span class="endauthor ">冯小暖</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233736.html" class="truetit" target="_blank">就是角度问题，给我的平头证明</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/165179582017224" >我詹我科</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">10&nbsp;/&nbsp;1128</span>
+<div class="endreply box">
+<a href="22233736.html#o" target="_blank">00:21</a>
+<br />
+<span class="endauthor ">我詹我科</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233724.html" class="truetit" target="_blank">中国正在消失的民间手艺，70多岁大爷铁钉补破碎瓷器，滴水不漏更耐用 zt</a>
+<span class="light_r  ">
+<a title="有8个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233724-2.html" target="_blank">2</a>
+<a href="/22233724-3.html" target="_blank">3</a>
+<a href="/22233724-4.html" target="_blank">4</a>
+<a href="/22233724-5.html" target="_blank">5</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/152957936027588" >我有点晕奶</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">95&nbsp;/&nbsp;32448</span>
+<div class="endreply box">
+<a href="22233724-5.html#o" >11:37</a>
+<br />
+<span class="endauthor ">子小古月</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233722.html" class="truetit" target="_blank">第一次坐飞机，航线是深圳到重庆，那么这条航线跳那个点物资比较多呢？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/100475567689951" >全虎扑第一</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">6&nbsp;/&nbsp;645</span>
+<div class="endreply box">
+<a href="22233722.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">TonyHorse</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233718.html" class="truetit" target="_blank">今天在群里和人撕逼了，大家看我做错了吗</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/270915589172752" >拳打奥特曼</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;1379</span>
+<div class="endreply box">
+<a href="22233718.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">快叫爸爸我爱你</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233709.html" class="truetit" target="_blank">ZT空姐遇害背后：滴滴拒绝回应的数百件投诉
+</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/222968133294644" >小可爱先生</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">10&nbsp;/&nbsp;3418</span>
+<div class="endreply box">
+<a href="22233709.html#o" target="_blank">13:14</a>
+<br />
+<span class="endauthor ">小可爱先生</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/acg">ACG区</a>]<a style="color:blue"  class="truetit"  href="/22233703.html" target="_blank">【人物志】亦正亦邪的“另类”勇者——佐藤和真&托卡·斯科特（剧透）</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/65664438842230" >警探罗伊德</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">15&nbsp;/&nbsp;780</span>
+<div class="endreply box">
+<a href="22233703.html#o" target="_blank">12:05</a>
+<br />
+<span class="endauthor ">警探罗伊德</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233699.html" class="truetit" target="_blank">《封神榜》VS《复仇者联盟》 哪队更强？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/215730493894896" >智慧酒店解决方案</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">16&nbsp;/&nbsp;1226</span>
+<div class="endreply box">
+<a href="22233699.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">火箭三连</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233698.html" class="truetit" target="_blank">有懂这个的jrs吗？现在能换多少斤粮食了？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/2120170609040" >鲁班77号</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">9&nbsp;/&nbsp;744</span>
+<div class="endreply box">
+<a href="22233698.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">想吃麻辣烫啊</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233691.html" class="truetit" target="_blank">轮到我了，本人在韩国生活一年多，有什么想问的</a>
+<span class="light_r  ">
+<a title="有12个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233691-2.html" target="_blank">2</a>
+<a href="/22233691-3.html" target="_blank">3</a>...<a href="/22233691-12.html" target="_blank">12</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/133699778551865" >雨落北平</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">224&nbsp;/&nbsp;118198</span>
+<div class="endreply box">
+<a href="22233691-12.html#o" >14:04</a>
+<br />
+<span class="endauthor ">周周静静小一一</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233687.html" class="truetit" target="_blank">求助街上的各位好心jr帮忙想想解决办法</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/169699750342807" >我爱玩桌游</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">0&nbsp;/&nbsp;41</span>
+<div class="endreply box">
+<a href="22233687.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">我爱玩桌游</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233679.html" class="truetit" target="_blank">脚扭了明天就要体测了，快烦死了</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/125734899110999" >电动打桩机</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">16&nbsp;/&nbsp;713</span>
+<div class="endreply box">
+<a href="22233679.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">玄不克非</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233673.html" class="truetit" target="_blank">有没有老哥知道什么菜</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/91299274026744" >艾艾森森森</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;941</span>
+<div class="endreply box">
+<a href="22233673.html#o" target="_blank">11:33</a>
+<br />
+<span class="endauthor ">Avvyce辜屿</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233667.html" class="truetit" target="_blank">角色走进死胡同而言，（生活大爆炸）莱昂纳德怎么改进？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/204957207759633" >包租婆</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;228</span>
+<div class="endreply box">
+<a href="22233667.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">三分水蛇</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/lurenwang">路人王专区</a>]<a  href="/22233660.html" class="truetit" target="_blank">你煽动观众，我送你血帽...约旦混血林君腾强硬回击对手，现场高潮了！</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253990513552864" >wade好坏</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">7&nbsp;/&nbsp;4370</span>
+<div class="endreply box">
+<a href="22233660.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">刚好第三次</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<span>[锁定]</span>
+<a  href="/22233657.html" class="truetit" target="_blank">跳河的滴滴司机捞上来了</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233657-2.html" target="_blank">2</a>
+<a href="/22233657-3.html" target="_blank" >3</a>
+<a href="/22233657-4.html" target="_blank">4</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/133408761670179" >NickWung</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">67&nbsp;/&nbsp;102722</span>
+<div class="endreply box">
+<a href="22233657-4.html#o" >00:49</a>
+<br />
+<span class="endauthor ">低调看球哈1</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233655.html" class="truetit" target="_blank">那些贪污被判没收全部财产的，钱会不会回到当地的百姓手里</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/59346154303718" >古街长歌</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">10&nbsp;/&nbsp;1087</span>
+<div class="endreply box">
+<a href="22233655.html#o" target="_blank">12:54</a>
+<br />
+<span class="endauthor ">从小不喜欢穿内裤</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233653.html" class="truetit" target="_blank">看妇联3看到一位Jr.重庆九龙坡</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/152058853850090" >love3559</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;556</span>
+<div class="endreply box">
+<a href="22233653.html#o" target="_blank">00:41</a>
+<br />
+<span class="endauthor ">愛儞離開伱</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233651.html" class="truetit" target="_blank">万能的虎扑，有老哥介绍一下律所面试的经验吗？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/214621952280535" >只爱evisu</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;67</span>
+<div class="endreply box">
+<a href="22233651.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">694656575</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233645.html" class="truetit" target="_blank">谁还记得比哥吗 请进来看看</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/244736915374444" >乐业人也爱上乐业人</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;575</span>
+<div class="endreply box">
+<a href="22233645.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">割掉你小JJ</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233641.html" class="truetit" target="_blank">街上有懂的修u盘吗</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/42553586851837" >恩比德丶21号继承者</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">6&nbsp;/&nbsp;348</span>
+<div class="endreply box">
+<a href="22233641.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">渔舟长晚</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233639.html" class="truetit" target="_blank">ZT长沙住宅告急仅够卖2.8个月 湖南省住建厅函告国土厅快供地
+
+</a>
+<span class="light_r  ">
+<a title="有2个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233639-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">23&nbsp;/&nbsp;5471</span>
+<div class="endreply box">
+<a href="22233639-2.html#o" >05-11</a>
+<br />
+<span class="endauthor ">蓝天呢</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233633.html" class="truetit" target="_blank">说5g联想投华为的了解下</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/186038064485802" >诺斯费拉杜</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;1650</span>
+<div class="endreply box">
+<a href="22233633.html#o" target="_blank">00:44</a>
+<br />
+<span class="endauthor ">真膳贝</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233625.html" class="truetit" target="_blank">万达imax和杜比影院选哪个？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/132298448035205" >Damn戴</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">19&nbsp;/&nbsp;1674</span>
+<div class="endreply box">
+<a href="22233625.html#o" target="_blank">08:59</a>
+<br />
+<span class="endauthor ">詹皇扇火锅</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233617.html" class="truetit" target="_blank">【播放歧视女性广播 万达影城致歉】zt</a>
+<span class="light_r  ">
+<a title="有10个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233617-2.html" target="_blank">2</a>
+<a href="/22233617-3.html" target="_blank" >3</a>
+<a href="/22233617-4.html" target="_blank">4</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/71525311630713" >丿卡卡卡卡</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">78&nbsp;/&nbsp;49217</span>
+<div class="endreply box">
+<a href="22233617-4.html#o" >13:55</a>
+<br />
+<span class="endauthor ">布拉伊姆</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233601.html" class="truetit" target="_blank">老哥们，离职后被拖欠工资怎么办？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/261776875295802" >wjhaijordan</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">5&nbsp;/&nbsp;417</span>
+<div class="endreply box">
+<a href="22233601.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">wjhaijordan</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233599.html" class="truetit" target="_blank">求大神科普，机动车驾驶证为什么只能到窗口买票而不能到窗口取票？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/206004514943675" >我_很简单</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;182</span>
+<div class="endreply box">
+<a href="22233599.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">我_很简单</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/lurenwang">路人王专区</a>]<a  href="/22233597.html" class="truetit" target="_blank">路人王最萌体重差？我就站着撸，你就是拿我没办法！</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253990513552864" >wade好坏</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;4589</span>
+<div class="endreply box">
+<a href="22233597.html#o" target="_blank">11:37</a>
+<br />
+<span class="endauthor ">绝对的美如画</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233596.html" class="truetit" target="_blank">滴滴那个罪犯，如果当初自首。。。</a>
+<span class="light_r  ">
+<a title="有19个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233596-2.html" target="_blank">2</a>
+<a href="/22233596-3.html" target="_blank">3</a>...<a href="/22233596-18.html" target="_blank">18</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/151532282070963" >勒布朗FMVP詹姆斯</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">358&nbsp;/&nbsp;190265</span>
+<div class="endreply box">
+<a href="22233596-18.html#o" >15:05</a>
+<br />
+<span class="endauthor ">遗忘的腾飞</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233591.html" class="truetit" target="_blank">溏心风暴一二部的演技什么水平？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/233187176324605" >教妳夺冠</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;719</span>
+<div class="endreply box">
+<a href="22233591.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">热火二当家</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233584.html" class="truetit" target="_blank">给西安的jr发福利了！</a>
+[&nbsp;<span class="multipage">
+<a href="/22233584-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/84055928916470" >TANKDDD</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">29&nbsp;/&nbsp;3343</span>
+<div class="endreply box">
+<a href="22233584-2.html#o" >05-11</a>
+<br />
+<span class="endauthor ">TANKDDD</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233579.html" class="truetit" target="_blank">求助jrs ，姑娘这一波什么意思？</a>
+<span class="light_r  ">
+<a title="有1个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233579-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/8746936758121" >嗜血长风</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">27&nbsp;/&nbsp;2263</span>
+<div class="endreply box">
+<a href="22233579-2.html#o" >05-11</a>
+<br />
+<span class="endauthor ">嗜血长风</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233578.html" class="truetit" target="_blank">给女性朋友问 关于男朋友的 大家评价下</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/184922629331679" >从来不扭脚踝</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">12&nbsp;/&nbsp;999</span>
+<div class="endreply box">
+<a href="22233578.html#o" target="_blank">01:17</a>
+<br />
+<span class="endauthor ">库里欢迎C罗加盟恒大</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233572.html" class="truetit" target="_blank">美团打车啥时候来阿，垄断市场该打破了</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/205520428094139" >麦蒂MM</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">8&nbsp;/&nbsp;1392</span>
+<div class="endreply box">
+<a href="22233572.html#o" target="_blank">01:08</a>
+<br />
+<span class="endauthor ">麦蒂MM</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233568.html" class="truetit" target="_blank">女神朋友圈发这样的诗句，该如何回复</a>
+<span class="light_r  ">
+<a title="有18个亮了的回帖">&nbsp;</a>
+</span>
+[&nbsp;<span class="multipage">
+<a href="/22233568-2.html" target="_blank">2</a>
+<a href="/22233568-3.html" target="_blank">3</a>...<a href="/22233568-14.html" target="_blank">14</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/252926889611591" >流川阿星</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">279&nbsp;/&nbsp;177823</span>
+<div class="endreply box">
+<a href="22233568-14.html#o" >15:30</a>
+<br />
+<span class="endauthor ">丁超强</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233566.html" class="truetit" target="_blank">ZT焦点丨成都楼市难题并非调控孤例：二手房价格畸高最高炒到7万元</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/223796880256777" >longlv1981</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">1&nbsp;/&nbsp;331</span>
+<div class="endreply box">
+<a href="22233566.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">极限肉搏</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233565.html" class="truetit" target="_blank">关于丁克，其实没那么复杂</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/116605001764793" >羊总腚抬高点</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">20&nbsp;/&nbsp;580</span>
+<div class="endreply box">
+<a href="22233565.html#o" target="_blank">11:45</a>
+<br />
+<span class="endauthor ">看看hhj</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233559.html" class="truetit" target="_blank">JR们的人生巅峰都是怎么样的？</a>
+[&nbsp;<span class="multipage">
+<a href="/22233559-2.html" target="_blank">2</a>
+</span>
+&nbsp;]&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/32914758977565" >美东小陀螺Kevin</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">22&nbsp;/&nbsp;914</span>
+<div class="endreply box">
+<a href="22233559-2.html#o" >00:34</a>
+<br />
+<span class="endauthor ">蝴蝶插几次阴茎</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+[<a href="/lurenwang">路人王专区</a>]<a  href="/22233554.html" class="truetit" target="_blank">连续胯下运球，crossover甩掉对手上篮得手，李晨光这球什么水平？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/253990513552864" >wade好坏</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">13&nbsp;/&nbsp;6662</span>
+<div class="endreply box">
+<a href="22233554.html#o" target="_blank">12:57</a>
+<br />
+<span class="endauthor ">大学霸</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233550.html" class="truetit" target="_blank">想办个婚介机构</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/2639537429416" >麦芽那个糖</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">2&nbsp;/&nbsp;123</span>
+<div class="endreply box">
+<a href="22233550.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">麦芽那个糖</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233549.html" class="truetit" target="_blank">编辑掉</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/9404821343425" >何小麦10</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">3&nbsp;/&nbsp;115</span>
+<div class="endreply box">
+<a href="22233549.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">何小麦10</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233537.html" class="truetit" target="_blank">长的标准是夸人的话语吗？</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/181175099356669" >糖竹子</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">15&nbsp;/&nbsp;732</span>
+<div class="endreply box">
+<a href="22233537.html#o" target="_blank">05-11</a>
+<br />
+<span class="endauthor ">氧化钙美如画</span>
+</div>
+</li>
+<li>
+<div class="titlelink box" style="width:645px;">
+<a  href="/22233536.html" class="truetit" target="_blank">刚刚在电影院怼了一母子</a>
+&nbsp;</div>
+<div class="author box">
+<a class="aulink" target="_blank" href="https://my.hupu.com/83661981254452" >外向孤独者病人</a>
+<br />
+<a style="color:#808080;cursor: initial; ">2018-05-11</a>
+</div>
+<span class="ansour box">19&nbsp;/&nbsp;2616</span>
+<div class="endreply box">
+<a href="22233536.html#o" target="_blank">12:52</a>
+<br />
+<span class="endauthor ">GenIz蓝颜</span>
+</div>
+</li>
+</ul>
+</div>
+<div class="rss" >
+<a target="_blank" href="https://bbs.hupu.com/rss.php?fid=34" title="通过RSS订阅步行街主干道的帖子"></a>
+</div>
+</form>
+<div class="showpage">
+<div class="page downpage" style="width:620px; float:left"></div>
+<input type="hidden" class="typenum" value="0" />
+<div class="pageright">
+步行街主干道共1747627主题 /94708033回复  今日58070帖</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom_tools" >
+<a id="scrollUp"   title="返回顶部" style="display:none;cursor:pointer;"></a>
+</div>
+<div class="hp-footer">
+                    
+                    <div class="hp-copyright">
+                    
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="http://jobs.hupu.com/" target="_blank">在虎扑工作</a> -
+                    <a href="http://marketing.hupu.com/contact/" target="_blank">联系我们</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a> -
+                    <a href="http://racing.hupu.com/" target="_blank" title="赛车">赛车</a> 
+                    </div>
+                    
+                </div>
+</body><script type="text/javascript" src="//b3.hoopchina.com.cn/web/channel/bbs/static/common/mod_96dd55b.js"></script>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/web/channel/bbs/static/common/js/jquery/jquery-1.8.3_a6ffa58.js"></script>
+<script type="text/javascript" src="//b2.hoopchina.com.cn/web/channel/bbs/static/common/widget/ui-dace/ui-dace_85cd6f2.js"></script>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/web/channel/bbs/static/common/js/global/global_58e6d6f.js"></script>
+<script type="text/javascript" src="//b2.hoopchina.com.cn/web/channel/bbs/static/common/js/underscore/underscore_48198ee.js"></script>
+<script type="text/javascript" src="//b3.hoopchina.com.cn/web/channel/bbs/static/common/js/common-v1_c756bbd.js"></script>
+<script type="text/javascript" src="//b2.hoopchina.com.cn/web/channel/bbs/static/subpages/postList_7a3a675.js"></script>
+<script type="text/javascript" src="//b1.hoopchina.com.cn/web/channel/bbs/static/subpages/pagelist_93e6d6f.js"></script>
+<script type="text/javascript" src="//b3.hoopchina.com.cn/web/channel/bbs/static/common/return_1b6b007.js"></script>
+<script type="text/javascript" src="//b3.hoopchina.com.cn/web/channel/bbs/static/common/widget/bbsPlate/bbsPlate_f382325.js"></script>
+<script type="text/javascript">var __ready = [];__ready.push(function(){
+        //dace统计
+        var __daceDataNameOfChannel = 'bbs';
+
+        //公共头尾
+        window._common && _common.init({project:"sports"});
+
+        //baidu统计
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?39fc58a7ab8a311f2f6ca4dc1222a96e";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+    });
+__ready.push(function(){//三级导航
+$(".hp-threeNav-item li").mouseover(function(){
+  $(this).find(".hp-drapDown").css("display","block");
+}).mouseout(function(){
+  $(this).find(".hp-drapDown").css("display","none");
+})
+//搜索
+$(".it-search-for").bind('input propertychange', function() {
+    var $value=$(".it-search-for").val();
+  if($value.length>0){
+      $(".hp-search-choose").show();
+      $(".searchval").html($value);
+  }else{
+      $(".hp-search-choose").hide();
+  }
+});
+    //搜索按钮
+    $(".btn-searchs").click(function(){
+     var $value=$(".it-search-for").val();
+      window.open('//my.hupu.com/search?q='+$value,'_blank');
+    })
+      // 回车键事件
+    $(".it-search-for").keypress(function(e) {
+       if(e.which == 13) {
+         var $value=$(".it-search-for").val();
+        window.open('//my.hupu.com/search?q='+$value,'_blank');
+       }
+   });
+   //帖子
+   $("#tiezi").click(function(){
+     var $value=$(".it-search-for").val();
+      window.open('//my.hupu.com/search?q='+$value,'_blank');
+    })
+  //视频
+  $("#videos").click(function(){
+    var $value=$(".it-search-for").val();
+     window.open('//v.liangle.com/nba/s_'+$value,'_blank');
+   })
+   //日志
+   $("#rizhi").click(function(){
+     var $value=$(".it-search-for").val();
+      window.open('https://my.hupu.com/search/blog-'+$value+'-5000','_blank');
+    })
+  //成员
+  $("#cyuan").click(function(){
+    var $value=$(".it-search-for").val();
+     window.open('https://my.hupu.com/search/member-0-2---'+$value+'-1','_blank');
+   })
+  //识货
+  $("#shihuo").click(function(){
+    var $value=$(".it-search-for").val();
+     window.open('http://www.shihuo.cn/search?keywords='+$value+'&channelType=12','_blank');
+   })
+
+});
+__ready.push(function(){  $(".showdiv").css("height",$(document).height()+"px");
+});
+__ready.push(function(){       var bbsPlate= require("common:widget/bbsPlate/bbsPlate");
+       bbsPlate.init();
+
+     });
+__ready.push(function(){//搜索按钮
+$(".lit-search-tit").bind('input propertychange', function() {
+});
+$(".lit-search-btn").click(function(){
+ var $value=$(".lit-search-tit").val();
+ console.log($value)
+ window.open('//my.hupu.com/search?fid=34&type=topic&q='+$value,'_blank');
+})
+
+// 回车键事件
+$(".lit-search-tit").keypress(function(e) {
+ if(e.which == 13) {
+   var $value=$(".lit-search-tit").val();
+ window.open('//my.hupu.com/search?fid=34&type=topic&q='+$value,'_blank');
+ }
+});
+
+
+});
+__ready.push(function(){
+    var maxpage=0;
+    if(100>100){
+      maxpage=100;
+    }else{
+      maxpage=100;
+    }
+    var harf='';
+    var loc=location.pathname.slice(1);
+    var postdate=location.pathname.indexOf('postdate')|| -1;
+    if(0==1){
+          harf='bxj-digest'
+    }else{
+      if(0>0){
+        if(postdate>0){
+          harf='bxj-type0-postdate'
+        }else{
+          harf='bxj-type0'
+        }
+      }else{
+        if(postdate>0){
+          harf='bxj-postdate'
+        }else{
+          harf='bxj'
+        }
+      }
+
+    }
+    $(".for-list li").mouseover(function(event) {
+      $(this).find(".caozhuo").css("visibility","visible");
+    }).mouseout(function(){
+      $(this).find(".caozhuo").css("visibility","hidden");
+    });
+    if(10>1){
+      $(".downpage").css("margin-left","-185px");
+    }
+    if(10>=5){
+      $(".downpage").css("margin-left","-194px");
+    }
+
+
+    $('.page').createPage(function(n){
+
+    },{
+    	pageCount:maxpage,//总页码,默认10
+    	current:10,//当前页码
+      name:harf+'-',//标记
+      hname:'bxj',
+    	showNear:1,//显示当前页码前多少页和后多少页，默认2
+    	pageSwap:true,
+      align:'right',
+    	showSumNum:false,//是否显示总页码
+      maxpage:100,
+      is_poslist:1,
+      is_read:0
+
+    });
+    $(".nextPage").css({
+      "height":"16px",
+      "line-height":"16px"
+    });
+  });window.initEvent && window.initEvent();</script></html>
